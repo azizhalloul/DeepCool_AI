@@ -29,7 +29,7 @@ The AI predicts rack inlet temperatures and dynamically adjusts cooling setpoint
 
 Below is a demo of the AI in action:
 
-[RL+LSTM Cooling Demo] (https://drive.google.com/uc?export=download&id=1JAkam7YOUR_FILE_ID)
+[RL+LSTM Cooling Demo] ([https://drive.google.com/uc?export=download&id=1JAkam7YOUR_FILE_ID](https://drive.google.com/file/d/1JAkam7nVNZgkNfGHgufeUJOymzaJXlXR/view?usp=drive_link))
 
 - ✅ Overheating events: 15  
 - ✅ Average cooling setpoint: 19.96°C  
