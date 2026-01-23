@@ -1,4 +1,4 @@
-# DeepCool_AI 🚀
+# DeepCool_AI 
 
 **Hybrid RL + LSTM AI for Energy-Efficient Data Center Cooling**
 
@@ -9,7 +9,7 @@
 DeepCool_AI is an advanced AI system designed to **optimize data center cooling** using a combination of **Long Short-Term Memory (LSTM) forecasting** and **Reinforcement Learning (RL)**.  
 The AI predicts rack inlet temperatures and dynamically adjusts cooling setpoints, significantly **reducing energy consumption** while maintaining safe operational limits.
 
-> 💡 Key Impact: Reduced energy waste and prevented overheating events in real-time.
+>  Key Impact: Reduced energy waste and prevented overheating events in real-time.
 
 ---
 
@@ -31,8 +31,8 @@ Below is a demo of the AI in action:
 
 [RL+LSTM Cooling Demo] ([https://drive.google.com/uc?export=download&id=1JAkam7YOUR_FILE_ID](https://drive.google.com/file/d/1JAkam7nVNZgkNfGHgufeUJOymzaJXlXR/view?usp=drive_link))
 
-- ✅ Overheating events: 15  
-- ✅ Average cooling setpoint: 19.96°C  
+-  Overheating events: 15  
+-  Average cooling setpoint: 19.96°C  
 - The AI dynamically adjusts cooling to prevent overheating while minimizing energy cost.
 
 ---
